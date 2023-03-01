@@ -1,11 +1,11 @@
 # Word-Dictionary
 
 
-Steps on how to install:
+**Steps on how to install:**
 
 
-First. Do `Pip install PyDictionary`
+**First. Do** `Pip install PyDictionary`
 
 
 
-Then your done!
+*Then your done!*
